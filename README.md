@@ -37,9 +37,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Global Terrorism](/assets/img/global_terrorism.png)
 
 ## Licenses & certifications
-- Intermediate SQL, DataCamp (_[April 2024](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)_)
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- **Intermediate SQL**, DataCamp (_[April 2024](https://www.datacamp.com/completed/statement-of-accomplishment/course/b8753ab4ed2b5880a4e1509c48b9302d713a3f51)_)
+- **Microsoft Excel**, International Business College (_April 2024_)
+- **Intermediate Data Modeling in Power BI**, DataCamp (_[April 2024](https://www.datacamp.com/completed/statement-of-accomplishment/course/7812b19c86e6e4e497514e543dfde41c6274bf6b)_)
+- **English - EF Level 14 - Advanced - CEFR Level C1**, EF Education First (_February 2024_)
+- **Analyze and Visualize Data with Power BI**, PeopleNET A/S (_[January 2024](https://peoplenet.dk/certificate-badge?certID=502cd991-68dd-442e-8abe-586a8dad36a4)_)
+- **Python Programming - 4 days**, NobleProg (_[August 2023](https://cert.nobleprog.com/certificate/729015/8fef0)_)
