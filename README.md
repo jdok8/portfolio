@@ -29,6 +29,10 @@ This project facilitates in-depth analysis of family expenses by consolidating d
 
 ![Personal Finance Overview](/assets/img/expenditures_teaser.gif)
 
+![Global Terrorism](/assets/img/terrorism_teaser.gif)
+
+![Personal Finance](/assets/img/expenditures_teaser.gif)
+
 ### Analysis of Terrorist Attacks Worldwide between 1970 and 2017
 [View report here](https://github.com/jdok8/powerbi-global-terrorism)
 
