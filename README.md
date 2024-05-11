@@ -30,10 +30,10 @@ This project facilitates in-depth analysis of family expenses by consolidating d
 
 ![Personal Finance](/assets/img/expenditures_teaser.gif)
 
-### Analysis of Terrorist Attacks Worldwide between 1970 and 2017
+### Global Terrorism Analysis: Exploring Terrorist Incidents from 1970 to 2017
 [View report here](https://github.com/jdok8/powerbi-global-terrorism)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Global Terrorism Analysis is a project aimed at unraveling the complexities of global terrorism using interactive visualizations and data insights. Leveraging the extensive Global Terrorism Database (GTD), comprising over 180,000 recorded incidents, this project provides a comprehensive overview of terrorist activities worldwide. Through insightful analysis of attack types, geographical distributions, and temporal trends, stakeholders gain valuable insights into the multifaceted nature of terrorisms. 
 
 ![Global Terrorism](/assets/img/terrorism_teaser.gif)
 
