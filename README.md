@@ -27,9 +27,6 @@
 
 This project facilitates in-depth analysis of family expenses by consolidating data from diverse sources, including CSV files from various bank accounts. Demonstrating advanced data visualization techniques within Power BI for educational purposes, the report showcases synthetic financial transactions. While the dataset contains multiple currencies, all values are uniformly presented in Danish Krone (DKK) in the visualizations unless explicitly stated otherwise. Offering insights into account balances, income, expenses, and investment trends over time, users gain comprehensive insights into their financial dynamics. The project consolidates data from CSV files representing transactions, ensuring seamless integration for ongoing analysis and optimization.
 
-![Personal Finance Overview](/assets/img/expenditures_teaser.gif)
-
-![Global Terrorism](/assets/img/terrorism_teaser.gif)
 
 ![Personal Finance](/assets/img/expenditures_teaser.gif)
 
