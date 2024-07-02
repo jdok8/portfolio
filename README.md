@@ -38,6 +38,7 @@ Global Terrorism Analysis is a project aimed at unraveling the complexities of g
 ![Global Terrorism](/assets/img/terrorism_teaser.gif)
 
 ## Licenses & certifications
+- **Prøve i Dansk 3**, CLAVIS sprog & kompetence (_June 2024_)
 - **PostgreSQL Summary Stats and Window Functions**, DataCamp (_[May 2024](https://www.datacamp.com/completed/statement-of-accomplishment/course/f2582089f5a5fbc585851deb8508b87bc55cf1b2)_)
 - **Data Manipulation in SQL**, DataCamp (_[May 2024](https://www.datacamp.com/completed/statement-of-accomplishment/course/29a7ff10178b3678e581ed0fe345c9c5c3283471)_)
 - **Joining Data in SQL**, DataCamp (_[April 2024](https://www.datacamp.com/completed/statement-of-accomplishment/course/52a046dc80b33f76ffc1857e626535e9523f0fe5)_)
