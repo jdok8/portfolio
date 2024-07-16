@@ -38,13 +38,9 @@ Global Terrorism Analysis is a project aimed at unraveling the complexities of g
 ![Global Terrorism](/assets/img/terrorism_teaser.gif)
 
 ## Licenses & certifications
+- **Data Analyst Associate**, DataCamp (_[July 2024](https://www.datacamp.com/certificate/DAA0013472774415)_)
 - **Prøve i Dansk 3**, CLAVIS sprog & kompetence (_June 2024_)
-- **PostgreSQL Summary Stats and Window Functions**, DataCamp (_[May 2024](https://www.datacamp.com/completed/statement-of-accomplishment/course/f2582089f5a5fbc585851deb8508b87bc55cf1b2)_)
-- **Data Manipulation in SQL**, DataCamp (_[May 2024](https://www.datacamp.com/completed/statement-of-accomplishment/course/29a7ff10178b3678e581ed0fe345c9c5c3283471)_)
-- **Joining Data in SQL**, DataCamp (_[April 2024](https://www.datacamp.com/completed/statement-of-accomplishment/course/52a046dc80b33f76ffc1857e626535e9523f0fe5)_)
-- **Intermediate SQL**, DataCamp (_[April 2024](https://www.datacamp.com/completed/statement-of-accomplishment/course/b8753ab4ed2b5880a4e1509c48b9302d713a3f51)_)
 - **Microsoft Excel**, International Business College (_April 2024_)
-- **Intermediate Data Modeling in Power BI**, DataCamp (_[April 2024](https://www.datacamp.com/completed/statement-of-accomplishment/course/7812b19c86e6e4e497514e543dfde41c6274bf6b)_)
 - **English - EF Level 14 - Advanced - CEFR Level C1**, EF Education First (_February 2024_)
 - **Analyze and Visualize Data with Power BI**, PeopleNET A/S (_[January 2024](https://peoplenet.dk/certificate-badge?certID=502cd991-68dd-442e-8abe-586a8dad36a4)_)
 - **Python Programming - 4 days**, NobleProg (_[August 2023](https://cert.nobleprog.com/certificate/729015/8fef0)_)
