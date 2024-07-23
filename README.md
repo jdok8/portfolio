@@ -47,7 +47,7 @@ As part of my SQL learning journey on DataCamp, I completed several projects inv
 - Listed the top five assignments by total donation value, categorized by donor type.
 - Identified the highest impact score assignment per region, with at least one donation.
 
-### Project 2: Analyzing Unicorn Companies
+### Analyzing Unicorn Companies
 [View project here](https://www.datacamp.com/datalab/w/d9535baa-6fb9-4cde-9df6-327f271a8e22/edit)
 
 - Identified the three best-performing industries based on new unicorns created in 2019, 2020, and 2021 combined, and created a table with industry, year, number of unicorns, and average valuation in billions, sorted by year and number of unicorns.
