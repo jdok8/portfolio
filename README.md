@@ -47,6 +47,12 @@ As part of my SQL learning journey on DataCamp, I completed several projects inv
 - Listed the top five assignments by total donation value, categorized by donor type.
 - Identified the highest impact score assignment per region, with at least one donation.
 
+### Evaluating of a Manufacturing Process
+[View project here](https://www.datacamp.com/datalab/w/33e740f2-5603-4b9b-a457-726a470c4233/edit)
+
+- Analyzed the manufacturing_parts table to determine if the process was within acceptable control limits using SQL window functions and nested queries.
+- Created an alert system that flagged products with heights outside control limits for each operator.
+
 ### Analyzing Unicorn Companies
 [View project here](https://www.datacamp.com/datalab/w/d9535baa-6fb9-4cde-9df6-327f271a8e22/edit)
 
