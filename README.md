@@ -37,6 +37,21 @@ Global Terrorism Analysis is a project aimed at unraveling the complexities of g
 
 ![Global Terrorism](/assets/img/terrorism_teaser.gif)
 
+## SQL Projects
+
+As part of my SQL learning journey on DataCamp, I completed several projects involving data analysis. Here's a brief summary of two key projects:
+
+### Impact Analysis of GoodThought NGO Initiatives
+[View project here](https://www.datacamp.com/datalab/w/6c2fd423-7bee-4938-810f-adea31fc61cf/edit)
+
+- Listed the top five assignments by total donation value, categorized by donor type.
+- Identified the highest impact score assignment per region, with at least one donation.
+
+### Project 2: Analyzing Unicorn Companies
+[View project here](https://www.datacamp.com/datalab/w/d9535baa-6fb9-4cde-9df6-327f271a8e22/edit)
+
+- Identified the three best-performing industries based on new unicorns created in 2019, 2020, and 2021 combined, and created a table with industry, year, number of unicorns, and average valuation in billions, sorted by year and number of unicorns.
+
 ## Licenses & certifications
 - **Data Analyst Associate**, DataCamp (_[July 2024](https://www.datacamp.com/certificate/DAA0013472774415)_)
 - **Prøve i Dansk 3**, CLAVIS sprog & kompetence (_June 2024_)
