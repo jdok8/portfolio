@@ -10,7 +10,7 @@
 ## Work Experience
 **Warehouse worker @ Salling Group (_Jun 2022 – Present_)**
 - Return Processing: Handle the return of items from shops to suppliers
-- Warehousing Tasks: Perform various tasks including pallet and package preparation, packing, labeling, and more
+- Goods Receiving: Manage incoming goods and coordinate with drivers for efficient delivery
 
 **Investment Operations Officer @ FNZ Group (_Apr 2021 - Feb 2022_)**
 - Portfolio Management: Responsible for overseeing transactions with precision and compliance
