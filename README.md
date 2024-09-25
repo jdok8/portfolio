@@ -9,11 +9,11 @@
 
 This project involves analyzing the effectiveness of different sales approaches (Email, Call, and Email + Call) using Python to optimize the company's strategy. By evaluating the number of customers, revenue distribution, and overall performance for each method, the project provides data-driven recommendations on the most effective sales approach to maximize revenue while minimizing time and resource investment.
 
-- **Tools & Libraries**: Pandas, NumPy, Matplotlib, Seaborn
-- **Key Insights**:
-  - The `Email + Call` method generated the highest average revenue per customer, despite requiring only 10 minutes per call.
-  - The `Email` method had the broadest reach, making it the most efficient for mass outreach with minimal effort.
-  - The `Call` method, although time-consuming, proved to be the least effective, generating the lowest revenue per unit sold.
+**Tools & Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+**Key Insights**:
+  - `Email + Call` method generated the highest average revenue per customer, despite requiring only 10 minutes per call.
+  - `Email` method had the broadest reach, making it the most efficient for mass outreach with minimal effort.
+  - `Call` method, although time-consuming, proved to be the least effective, generating the lowest revenue per unit sold.
   
 This project showcases data cleaning, exploratory data analysis (EDA), and visualization techniques, providing actionable insights based on customer sales data.
 
