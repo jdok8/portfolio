@@ -1,6 +1,21 @@
 # Data Analyst
 
-#### Technical Skills: Python, Power BI, SQL, MS Excel
+#### Technical Skills: Power BI, Python, SQL, MS Excel
+
+
+## Multi-Tool Projects
+
+### Brazilian E-Commerce Analysis: Insights into Marketplace Trends with Python and Power BI
+[View project here](https://github.com/jdok8/olist-ecommerce)
+
+This project combines the analytical capabilities of Python and Power BI to explore around 100,000 orders from the Brazilian e-commerce marketplace Olist. By leveraging Python for data preprocessing and Power BI for visualization, the project provides a comprehensive view of marketplace performance, including customer behavior, delivery performance, and sales trends.
+
+**Key Features**:
+- **Python**: Data cleaning, validation, and preprocessing tasks (e.g., handling missing data, feature engineering).  
+- **Power BI**: Interactive dashboards for sales metrics, customer insights, and delivery performance.
+
+![E-Commerce Report](/assets/img/olist_e-commerce_teaser.gif)
+
 
 ## Python Projects
 
@@ -19,6 +34,7 @@ This project showcases data cleaning, exploratory data analysis (EDA), and visua
 
 
 ## Power BI Projects
+
 ### Personal Finance Analysis
 [View report here](https://github.com/jdok8/powerbi-personal-finance)
 
