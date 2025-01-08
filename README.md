@@ -91,10 +91,11 @@ As part of my SQL learning journey on DataCamp, I completed several projects inv
 - Data Analysis: Utilize Excel to analyze the duration items were on hold for efficient resolution
 
 ## Licenses & certifications
+- **Microsoft Excel - Advanced**, International Business College (_January 2025_)
 - **Data Analyst**, DataCamp (_[September 2024](https://www.datacamp.com/certificate/DA0024767541705)_)
 - **Data Analyst Associate**, DataCamp (_[July 2024](https://www.datacamp.com/certificate/DAA0013472774415)_)
 - **Prøve i Dansk 3**, CLAVIS sprog & kompetence (_June 2024_)
-- **Microsoft Excel**, International Business College (_April 2024_)
+- **Microsoft Excel - Intermediate**, International Business College (_April 2024_)
 - **English - EF Level 14 - Advanced - CEFR Level C1**, EF Education First (_February 2024_)
 - **Analyze and Visualize Data with Power BI**, PeopleNET A/S (_[January 2024](https://peoplenet.dk/certificate-badge?certID=502cd991-68dd-442e-8abe-586a8dad36a4)_)
 - **Python Programming - 4 days**, NobleProg (_[August 2023](https://cert.nobleprog.com/certificate/729015/8fef0)_)
