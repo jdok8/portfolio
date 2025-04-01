@@ -96,7 +96,7 @@ As part of my SQL learning journey on DataCamp, I completed several projects inv
 - Providing practical guidance in the use of digital tools such as Gmail, Google Docs, and online collaboration platforms.
 
 ## Licenses & certifications
-- **Excel VBA Programmering grundlæggende**, 4D Academy ApS (_March 2025_)
+- **Excel VBA Programmering grundlæggende**, 4D Academy ApS (_[March 2025](https://peoplenet.dk/certificate-badge/?certID=68e068b6-a657-40c8-be97-e5f648dd0f46)_)
 - **Microsoft Excel - Advanced**, International Business College (_January 2025_)
 - **Data Analyst**, DataCamp (_[September 2024](https://www.datacamp.com/certificate/DA0024767541705)_)
 - **Data Analyst Associate**, DataCamp (_[July 2024](https://www.datacamp.com/certificate/DAA0013472774415)_)
