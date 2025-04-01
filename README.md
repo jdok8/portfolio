@@ -90,7 +90,13 @@ As part of my SQL learning journey on DataCamp, I completed several projects inv
 - Request Management: Efficiently manage and process requests for repairing of purchased devices
 - Data Analysis: Utilize Excel to analyze the duration items were on hold for efficient resolution
 
+## Volunteering
+**Volunteer Teacher @ ReDI School of Digital Integration Aarhus (_Mar 2025 – Present_)**
+- Teaching in the "Computer for Work – Beginners" course, helping women with migrant backgrounds develop digital skills.
+- Providing practical guidance in the use of digital tools such as Gmail, Google Docs, and online collaboration platforms.
+
 ## Licenses & certifications
+- **Excel VBA Programmering grundlæggende**, 4D Academy ApS (_March 2025_)
 - **Microsoft Excel - Advanced**, International Business College (_January 2025_)
 - **Data Analyst**, DataCamp (_[September 2024](https://www.datacamp.com/certificate/DA0024767541705)_)
 - **Data Analyst Associate**, DataCamp (_[July 2024](https://www.datacamp.com/certificate/DAA0013472774415)_)
